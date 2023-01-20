@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "best-100-novel",
+  "private_key_id": "a99af0da7ceed2ed04d6840a3e93f617e20127a1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1F4+AG8m6LM93\nfaP6r6CJIBWW7Egf4aRxnmdDAKLi0vX47DbMwZ0qy/nCPuWhoLHlY0vmlFkVx50V\nIcU4swpEL9XGmeCBiYuzKmQ3Burq5OVsd718b4iBn1fctJNxcaryASunsyC4UL2B\nMp1vu0CSGh4OOSzxUxB3aRJwkk0TCDz/0rJysUKSimZ2ywsUJTosLRYIcocITRN6\nWNnzUWG9mSK1wCqJ2XKtxVsv2bN3UZ36gE4PpZKnieNtgv60rmpQhgHieZ2IAFpA\n2S+eSWzz2RaxXBhEBY3a6gHCARxWluY1O1OuO7YHjL1EmzwAk0VpIS+v9aSrZGo9\nYRb3QPZrAgMBAAECggEAPulF9YPx00dA9eqEfpDn7OtkBK/mKIk7lysoBXthmvod\n8JGjQgPbJWSCSmyOWtWYJ7AUzLBpuGrF0/MM8HMmlGSn2BxaBbZyfVYzRXiWQO8v\nEr0Qa3vVyO5B2E81T7pk4Dju4Q4WRmHqS8l5Lzk2p+sB2QAc8GNie5FZkhkJRJxI\nZoXvwLeR9ZnP0oK4ejYgEnU1hQ/MrSZrzaf9e6CPNWOGChYmclYQUJv4OJlbrLIS\nQ5mSzziaUBi955s1j/XPTHwAjy4aCB6Td3gPDOWWsS3D8a/wgFmOxI6LRwLUZprv\nYyJNTFk++T2bPGXB3XzxNr8AHNVivX4vO6HoIX2iLQKBgQDq1QQRrv9Lx0xy9x7U\ngQcjhMsO0FjtF8tRN+MpH18ucdTM8wKgN8IrotA+1USwBAPokPOmFUOV8K/SrKYx\nVPYqF/U2cuyD8O1KsOu3IEUKZhS07YtgJL7/VmSG6nLcT58Nq3sMuiTd+s5T0nXU\njDu5xtqL2db6caxDxWq0ilHLXQKBgQDFanB3gKMqMcM74+WAgtFsTJhMT6LMk+1w\nPomxQm4ct+j5hi1z07Z4QZswIDUcB4au1SPyTznhC8FhBtVP0JVz/bjLiO7TXkYQ\nJApLcXp4MKZMA4Ox7dWrloZ7gTpXjmTXMZKfCy2xpr330B/V2KQ46LCPnDIiHfVg\noXldL9p0ZwKBgQCecDQ7nh9fSEsbMgIaDCf93eWGzCmDZc9mr9dS8nishF64HKlD\n4freqA3qpseeHkdozQumnago7Ogjsxq6JAGmKt3l66oJ5y6iezW+K0aJmpAT9kVY\nC9LVwbs3j80JOastdOojjx+6qTI2OcQIMMlHMZRYURSLitBYNUUmJEDFfQKBgBr4\n0ejh4GkRZ3U1S9PlC6vaQyyZ7Mo6o8QkJzfataSi0+fTlz4t/M4tWICYxejQdmxI\nnqKqhGPk8UTKZDaFbwXr8mWMjeS/Cp+F7QoltO/a5b2Y9VNIBVtuM22IWGpCADEO\nitPD+Tg+adID03WqJbXIxOa6Fndm1HGhXi2HLjedAoGAG+jc5WpkTGJUXuUklCYy\nNnbd74gOeJ3U9UMsH9Jq/SQvamDbdDJtccpqhS868zOTxt/AxqtqPdUKZRs8dtJV\nAzEVPDHxd+Q4NtxAEE9o28twxLPY+ixB6EaBVl68TWLyAsWamqBZ93yyecbB9Hwi\n7xRCGue9kVypnyE/f8rvM+o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "project@best-100-novel.iam.gserviceaccount.com",
+  "client_id": "111193773219099790746",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/project%40best-100-novel.iam.gserviceaccount.com"
+}
